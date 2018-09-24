@@ -1,11 +1,16 @@
 _repo: Christmas-on-the-Briny-The-Innocents-Abroad-Or-A-Holiday-Trip-to-the-Abrolhos-Islands_56937
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 56937-h/images/cover.jpg
 creator:
   author:
     agent_name: Christie, William Bede
     gutenberg_agent_id: '49089'
     url: http://www.gutenberg.org/2009/agents/49089
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56937#Christmas-on-the-Briny-The-Innocents-Abroad-Or-A-Holiday-Trip-to-the-Abrolhos-Islands
 gutenberg_issued: '2018-04-07'
 gutenberg_type: Text
 identifiers:
